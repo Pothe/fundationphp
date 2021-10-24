@@ -12,8 +12,7 @@
   </head>
   <body>
     <?php
-
-        require("views/$ulr.php");
+      header("locatino:views/$ulr.php");
 
     ?>
 
