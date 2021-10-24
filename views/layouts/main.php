@@ -11,7 +11,7 @@
     <title><?= $view_bag['title']?></title>
   </head>
   <body>
-      <div class="containe-fluid bg-secondary">
+      <div class="containe-fluid bg-primary">
         <section class="container">
           <nav class="navbar navbar-expand-lg navbar-dark ">
                 <a href="" class="navbar-brand">Tingdog</a>
