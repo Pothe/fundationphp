@@ -7,7 +7,7 @@ $view_bag=[
 
 $db= new VersionControl;
 
-$db->view('contact');
+$db->view('contact',$view_bag);
 
 
 
