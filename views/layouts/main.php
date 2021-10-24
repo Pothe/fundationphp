@@ -27,7 +27,7 @@
           </section>
       </div>
     <?php
-      header("locatino:views/$ulr.php");
+      header("locatino:views/$ulr.view.php");
 
     ?>
 
