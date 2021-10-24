@@ -11,6 +11,13 @@
     <title><?= $view_bag['title']?></title>
   </head>
   <body>
+      <div class="container-fluid">
+          <nav class="navbar">
+              <ul class="navbar-nav"> 
+                  <li class="nav-item"><a href="" class="nav-link">home</a></li>
+              </ul>
+          </nav>
+      </div>
     <?php
       header("locatino:views/$ulr.php");
 
