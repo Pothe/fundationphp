@@ -12,6 +12,7 @@
   </head>
   <body>
       <div class="containe-fluid">
+        <section class="container">
           <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
               <ul class="navbar-nav"> 
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
@@ -22,6 +23,7 @@
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
               </ul>
           </nav>
+          </section>
       </div>
     <?php
       header("locatino:views/$ulr.php");
