@@ -11,7 +11,7 @@
     <title><?= $view_bag['title']?></title>
   </head>
   <body>
-      <div class="container-fluid">
+      <div class="containe-fluid">
           <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
               <ul class="navbar-nav"> 
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
