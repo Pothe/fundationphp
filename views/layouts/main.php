@@ -12,7 +12,7 @@
   </head>
   <body>
       <div class="container-fluid">
-          <nav class="navbar">
+          <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
               <ul class="navbar-nav"> 
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
