@@ -11,9 +11,10 @@
     <title><?= $view_bag['title']?></title>
   </head>
   <body>
-      <div class="containe-fluid">
+      <div class="containe-fluid bg-secondary">
         <section class="container">
-          <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+          <nav class="navbar navbar-expand-lg navbar-dark ">
+                <a href="" class="navbar-brand">Tingdog</a>
               <ul class="navbar-nav"> 
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
                   <li class="nav-item"><a href="" class="nav-link">home</a></li>
