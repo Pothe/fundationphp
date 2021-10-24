@@ -27,7 +27,7 @@
           </section>
       </div>
     <?php
-      require("$ulr.view.php");
+      require("views/$url.view.php");
 
     ?>
 

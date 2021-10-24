@@ -1,1 +1,1 @@
-<?= $view_bag['title']?>
+<?php echo $view_bag['title']?>
