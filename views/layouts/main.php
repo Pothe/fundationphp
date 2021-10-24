@@ -18,7 +18,7 @@
               <ul class="navbar-nav"> 
                   <li class="nav-item"><a href="" class="nav-link">HOME</a></li>
                   <li class="nav-item"><a href="" class="nav-link">Service</a></li>
-                  <li class="nav-item"><a href="" class="nav-link">Contact</a></li>
+                  <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
                   <li class="nav-item"><a href="" class="nav-link">Price</a></li>
                   <li class="nav-item"><a href="" class="nav-link">About </a></li>  
                   <li class="nav-item"><a href="" class="nav-link">Download</a></li>
